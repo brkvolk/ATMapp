@@ -1,2 +1,2 @@
 # ATMapp
-##WPF app imitating ATM
+## WPF app imitating ATM
